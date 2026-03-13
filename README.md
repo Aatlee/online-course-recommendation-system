@@ -1,4 +1,4 @@
-# 📚 ONLINE COURSE RECOMMENDATION SYSTEM
+# 📚 Online Course Recommendation System
 📌 Project Overview
 
 The Online Course Recommendation System is a machine learning based web application that recommends relevant online courses to users based on their interests and preferences. The system uses a hybrid recommendation approach, combining different techniques to provide accurate and personalized course suggestions.
