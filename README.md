@@ -7,7 +7,7 @@ The application is built using Python, Machine Learning, and Streamlit, allowing
 
 ---
 
-##🎯 Objectives
+## 🎯 Objectives
 
 The main objectives of this project are:
 
@@ -21,7 +21,7 @@ To deploy the model using Streamlit for an interactive user interface.
 
 ---
 
-##🧠 Methodology
+## 🧠 Methodology
 
 This project uses a Hybrid Recommendation System, which combines multiple recommendation techniques to improve prediction accuracy.
 
@@ -47,7 +47,7 @@ Based on these features, the model suggests courses that are most relevant to th
 
 ---
 
-##🗂️ Project Structure
+## 🗂️ Project Structure
 course-recommendation-system/
 │
 ├── app.py                                  # Streamlit web application
@@ -58,7 +58,7 @@ course-recommendation-system/
 
 ---
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Python
 
@@ -76,7 +76,7 @@ Excel Dataset
 
 ---
 
-##📊 Dataset
+## 📊 Dataset
 
 The dataset contains information about various online courses including:
 
@@ -96,7 +96,7 @@ This data is used to train the recommendation model and generate relevant sugges
 
 ---
 
-##🚀 Application Features
+## 🚀 Application Features
 
 Interactive Streamlit web interface
 
