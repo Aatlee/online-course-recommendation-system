@@ -5,7 +5,9 @@ The Online Course Recommendation System is a machine learning based web applicat
 
 The application is built using Python, Machine Learning, and Streamlit, allowing users to interact with the model through a simple and user-friendly web interface.
 
-🎯 Objectives
+---
+
+##🎯 Objectives
 
 The main objectives of this project are:
 
@@ -17,7 +19,9 @@ To demonstrate how recommender systems work in real-world platforms like Courser
 
 To deploy the model using Streamlit for an interactive user interface.
 
-🧠 Methodology
+---
+
+##🧠 Methodology
 
 This project uses a Hybrid Recommendation System, which combines multiple recommendation techniques to improve prediction accuracy.
 
@@ -41,7 +45,9 @@ User preferences
 
 Based on these features, the model suggests courses that are most relevant to the user.
 
-🗂️ Project Structure
+---
+
+##🗂️ Project Structure
 course-recommendation-system/
 │
 ├── app.py                                  # Streamlit web application
@@ -49,7 +55,10 @@ course-recommendation-system/
 ├── online_course_recommendation_v2.xlsx    # Dataset used for recommendations
 ├── requirements.txt                        # Required Python libraries
 └── README.md                               # Project documentation
-⚙️ Technologies Used
+
+---
+
+##⚙️ Technologies Used
 
 Python
 
@@ -65,7 +74,9 @@ Streamlit
 
 Excel Dataset
 
-📊 Dataset
+---
+
+##📊 Dataset
 
 The dataset contains information about various online courses including:
 
@@ -83,7 +94,9 @@ Ratings
 
 This data is used to train the recommendation model and generate relevant suggestions.
 
-🚀 Application Features
+---
+
+##🚀 Application Features
 
 Interactive Streamlit web interface
 
@@ -116,7 +129,9 @@ Hugging Face Spaces
 
 After deployment, the application can be accessed via a public URL.
 
-📈 Future Improvements
+---
+
+##📈 Future Improvements
 
 Add user login system
 
@@ -128,7 +143,9 @@ Add course ratings and reviews analysis
 
 Enhance UI with better visualizations
 
-👨‍💻 Author
+---
+
+##👨‍💻 Author
 
 Aatlee Varghese
 
