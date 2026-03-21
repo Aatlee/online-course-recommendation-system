@@ -131,7 +131,7 @@ After deployment, the application can be accessed via a public URL.
 
 ---
 
-##📈 Future Improvements
+## 📈 Future Improvements
 
 Add user login system
 
@@ -145,7 +145,7 @@ Enhance UI with better visualizations
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Aatlee Varghese
 
